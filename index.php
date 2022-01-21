@@ -1,0 +1,325 @@
+<?php
+/**
+ * A fallback page in the template hierarchy when nothing else applies
+ * 
+ * Handle via archive.php
+ */
+
+// use default archive page
+get_template_part('archive');
+
+<!DOCTYPE html>
+
+<head>
+<title>Ganba &mdash; Información y humor al servicio de la Clase Trabajadora. Somos el Medio de Comunicación más influyente y carismático del servidor del Roberttson</title>
+
+<link rel="pingback" href="https://www.gamba.cl/xmlrpc.php" />
+	
+<link rel="shortcut icon" href="https://www.gamba.cl/wp-content/uploads/2016/05/logo-gamba.png" />	
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.gamba.cl/wp-includes/css/dist/block-library/style.min.css?ver=5.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.gamba.cl/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='juiz_sps_styles-css'  href='https://www.gamba.cl/wp-content/plugins/juiz-social-post-sharer/css/juiz-social-post-sharer-8.min.css?ver=1.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='https://www.gamba.cl/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.1' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 8px;
+	line-height: 10px;
+	height: 10px;
+	background-image: url('https://www.gamba.cl/wp-content/plugins/wp-polls/images/default_gradient/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+</style>
+<link rel='stylesheet' id='smartmag-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400,400Italic,600,700|Roboto+Slab|Merriweather:300italic&#038;subset' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-core-css'  href='style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-responsive-css'  href='https://www.gamba.cl/wp-content/themes/smart-mag/css/responsive.css?ver=2.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='pretty-photo-css'  href='https://www.gamba.cl/wp-content/themes/smart-mag/css/prettyPhoto.css?ver=2.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-font-awesome-css'  href='https://www.gamba.cl/wp-content/themes/smart-mag/css/fontawesome/css/font-awesome.min.css?ver=2.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css-css'  href='https://www.gamba.cl/?__custom_css=1&#038;ver=5.4.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.gamba.cl/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.gamba.cl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.gamba.cl/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=3.0.2'></script>
+<script type='text/javascript' src='https://www.gamba.cl/wp-content/themes/smart-mag/js/jquery.prettyPhoto.js?ver=5.4.8'></script>
+<link rel='https://api.w.org/' href='https://www.gamba.cl/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.gamba.cl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.gamba.cl/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.8" />
+<link rel="canonical" href="https://www.gamba.cl/" />
+<link rel='shortlink' href='https://www.gamba.cl/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.gamba.cl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gamba.cl%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.gamba.cl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gamba.cl%2F&#038;format=xml" />
+</script><link rel="icon" href="https://www.gamba.cl/wp-content/uploads/2021/03/cropped-logo-gamba-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.gamba.cl/wp-content/uploads/2021/03/cropped-logo-gamba-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.gamba.cl/wp-content/uploads/2021/03/cropped-logo-gamba-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.gamba.cl/wp-content/uploads/2021/03/cropped-logo-gamba-1-270x270.jpg" />
+</head>
+
+
+<body class="home page-template page-template-page-blocks page-template-page-blocks-php page page-id-425 page-builder right-sidebar full has-featured has-nav-dark">
+
+<div class="main-wrap">
+
+	
+	
+	<div class="top-bar">
+
+		<div class="wrap">
+			<section class="top-bar-content cf">
+						
+				
+	</div>
+	
+
+		
+		<div class="wrap">
+			
+			
+			<header class="default">
+                <a href="https://unidadpopular.ga/">
+                    <img class="" alt="" src="images/bannerup.png"
+                    width=1000" height="250"></a>
+					 
+				
+			</header>
+				
+		
+<div class="navigation-wrap cf">
+
+	<nav class="navigation cf nav-dark">
+	
+		<div class>
+		
+			<div class="mobile" data-type="classic" data-search="1">
+				<a href="#" class="selected">
+					<span class="text">Navigate</span><span class="current"></span> <i class="hamburger fa fa-bars"></i>
+				</a>
+			</div>
+			
+			<div class="menu-menu-principal-container"><ul id="menu-menu-principal" class="menu"><li id="menu-item-85885" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-1 menu-item-85885"><a href="https://www.gamba.cl/category/noticias/">&nbsp;Noticias</a></li>
+<li id="menu-item-85890" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-45 menu-item-85890"><a href="https://www.gamba.cl/category/editorial/">Humor</a></li>
+<li id="menu-item-85885" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-1 menu-item-85885"><a href="https://www.gamba.cl/category/humor/">Información</a></li>
+<li id="menu-item-85890" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-45 menu-item-85890"><a href="https://www.gamba.cl/category/columnas/">FPRCH</a></li>
+<li id="menu-item-85890" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-45 menu-item-85890"><a href="https://www.gamba.cl/category/entrevistas/">PC(PP)</a></li>
+<li id="menu-item-85890" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-45 menu-item-85890"><a href="https://www.gamba.cl/category/editorial/">JNPD</a></li>
+</ul></div>			
+				
+		</div>
+		
+	</nav>
+
+		
+</div>				
+							
+		</div>
+		
+				
+	</div>	
+	<div class="breadcrumbs-wrap">
+		
+		<div class="wrap">
+				</div>
+		
+	</div>
+
+    <div class="main-featured">
+		<div class="wrap cf">
+		
+		<div class="row">
+			<div class="slider frame flexslider col-8" data-animation="fade" data-animation-speed="600" data-slide-delay="4500">
+				<ul class="slides">
+
+                </ul>
+			
+				
+            </div>
+            
+                    
+        </section><div class="row cf builder">
+                    
+                
+                            
+                                    <div class="column builder one-1">
+                                    
+                                
+                     </div> 			
+                            
+                            </div>
+                    
+                
+                
+        
+                    </div>
+                    
+                </div>
+                
+
+            <footer class="main-footer">
+            
+                    <div class="wrap">
+                
+                            <ul class="widgets row cf">
+                        
+                    <li class="widget col-4 latest-posts">			
+                                    <h3 class="widgettitle">FPRCH</h3>						
+                    <ul class="posts-list">
+                    
+                                    <li>
+                        
+                            <a href="images/pcpp.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" title=" Encuentra mas info del FPRCH en la página oficial"><img width="200" height="200" src="images/pcpp.png" sizes="(max-width: 110px) 100vw, 110px" />
+                            Encuentra mas info del FPRCH en la página oficial</a>
+                            
+                            <div class="content">
+                                    
+                                <a href="https://www.gamba.cl/2021/12/el-desfalco-de-arturo-zuniga-denuncian-que-espacio-riesco-costo-en-total-6-mil-millones-de-pesos-debido-a-los-dobles-contratos/" title=" Encuentra mas info del FPRCH en la página oficial"></a>
+                                                                                                                                                        
+                            </div>
+                        
+                        </li>
+                                </ul>
+                    
+                    </li>
+                    <li class="widget col-4 latest-posts">			
+                                    <h3 class="widgettitle">PC(PP)</h3>						
+                    <ul class="posts-list">
+                    
+                        <li>
+                        
+                            <a href="https://paltapopular.ml/" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" title=" Únete a la verdadera izquierda! Encuentra mas info del PC(PP) en la página oficial"><img width="200" height="200" src="images/pcpp.png" sizes="(max-width: 110px) 100vw, 110px" />
+                            Únete a la verdadera izquierda! Encuentra mas info del PC(PP) en la página oficial</a>
+                            
+                            <div class="content">
+                                    
+                                <a href="https://paltapopular.ml/" title=" Únete a la verdadera izquierda! Encuentra mas info del PC(PP) en la página oficial"></a>
+                                                                                                                                                        
+                            </div>
+                                </ul>
+                    
+                    </li>
+                    <li class="widget col-4 latest-posts">			
+                                    <h3 class="widgettitle">JNPD</h3>						
+                    <ul class="posts-list">
+                        <li>
+                        
+                            <a href="https://jnpd.tk/" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" title=" Encuentra mas info del JNPD en la página oficial"><img width="200" height="200" src="images/pcpp.png" sizes="(max-width: 110px) 100vw, 110px" />
+                            Encuentra mas info del JNPD en la página oficial</a>
+                            
+                            <div class="content">
+                                    
+                                <a href="https://jnpd.tk/" title=" Encuentra mas info del JNPD en la página oficial"></a>
+                                                                                                                                                        
+                            </div>
+                                </ul>
+                    
+                    </li>			</ul>
+                        
+                </div>
+            
+                
+            
+                    <div class="lower-foot">
+                    <div class="wrap">
+                
+                                
+                    <div class="widgets">
+                        <div class="menu-header-footer-container"><ul id="menu-header-footer-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-85899"><a href="https://unidadpopular.ga/" aria-current="page">Home</a></li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85940"><a href="https://www.gamba.cl/nosotros/">¿Quiénes Somos?</a></li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85814"><a href="https://www.gamba.cl/contacto/">Contacto</a></li>
+        </ul></div>			<div class="textwidget">Copyright &copy; 2022<a href="https://www.gamba.cl/" target="_blank" rel="noopener noreferrer"> Ganba Unidad Popular</a>
+        </div>
+                            </div>
+                    
+                            
+                    </div>
+                </div>		
+                
+            </footer>
+            
+        </div>
+                
+        <div style="display:none;" id="adsense-box-tags" class="adsense-box-tags"><a href="http://photoboxone.com/category/plugins/" target="_blank" title="Plugins Wordpress">Plugins Wordpress</a>, <a href="http://photoboxone.com/category/themes/" target="_blank" title="Themes Wordpress">Themes Wordpress</a>, <a href="http://photoboxone.com/category/documents/" target="_blank" title="Documents Wordpress">Documents Wordpress</a></div>	<script>
+                    // List of Themes, Classes and Regular expressions
+                var template_name = 'smart-mag';
+                switch(template_name) {
+                    case 'twentyeleven' :
+                            var classes = ['entry-meta'];
+                            var regex = ' by <a(.*?)\/a>;<span class="sep"> by <\/span>';
+                            break;
+                    case 'twentyten' :
+                            var classes = ['entry-meta'];
+                            var regex = ' by <a(.*?)\/a>;<span class="meta-sep">by<\/span>';
+                            break;
+                    case 'object' :
+                            var classes = ['post-details', 'post'];
+                            var regex = ' by <span(.*?)\/span>;<p class="post-details">by';
+                            break;
+                    case 'theme-revenge' :
+                            var classes = ['post-entry-meta'];
+                            var regex = 'By <a(.*?)\/a> on';
+                            break;
+                    case 'Magnificent' :
+                            var classes = ['meta-info'];
+                            var regex = '<span>by<\/span> <a(.*?)\/a>;Posted by <a(.*?)\/a> on ';
+                            break;
+                    case 'wp-clearphoto' :
+                            var classes = ['meta'];
+                            var regex = '\\|\\s*<\/span>\\s*<span class="meta-author">\\s*<a(.*?)\/a>';
+                            break;
+                    case 'wp-clearphoto1' :
+                            var classes = ['meta'];
+                            var regex = '\\|\\s*<\/span>\\s*<span class="meta-author">\\s*<a(.*?)\/a>';
+                            break;
+                    default:
+                            var classes = ['entry-meta'];
+                            var regex = ' by <a(.*?)\/a>;<span class="sep"> by <\/span>; <span class="meta-sep">by<\/span>;<span class="meta-sep"> by <\/span>';
+                }
+                        if (typeof classes[0] !== 'undefined' && classes[0] !== null) {
+                        for(var i = 0; i < classes.length; i++) {
+                            var elements = document.querySelectorAll('.'+classes[i]);
+                            for (var j = 0; j < elements.length; j++) {
+                                var regex_array = regex.split(";");
+                                for(var k = 0; k < regex_array.length; k++) {
+                                     if (elements[j].innerHTML.match(new RegExp(regex_array[k], "i"))) {
+                                         var replaced_txt = elements[j].innerHTML.replace(new RegExp(regex_array[k], "i"), '');
+                                         elements[j].innerHTML = replaced_txt;
+                                     }
+                                }
+                            }			
+                        }
+                    }
+                                
+                </script>
+            <script type='text/javascript' src='https://www.gamba.cl/wp-includes/js/comment-reply.min.js?ver=5.4.8'></script>
+        <script type='text/javascript' src='https://www.gamba.cl/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+        <script type='text/javascript'>
+        /* <![CDATA[ */
+        var _wpcf7 = {"loaderUrl":"https:\/\/www.gamba.cl\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Por favor, prueba que no eres un robot.","sending":"Enviando..."};
+        /* ]]> */
+        </script>
+        <script type='text/javascript' src='https://www.gamba.cl/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+        <script type='text/javascript'>
+        /* <![CDATA[ */
+        var pollsL10n = {"ajax_url":"https:\/\/www.gamba.cl\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+        /* ]]> */
+        </script>
+        <script type='text/javascript' src='https://www.gamba.cl/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.1'></script>
+        <script type='text/javascript'>
+        /* <![CDATA[ */
+        var Bunyad = {"ajaxurl":"https:\/\/www.gamba.cl\/wp-admin\/admin-ajax.php"};
+        /* ]]> */
+        </script>
+        <script type='text/javascript' src='https://www.gamba.cl/wp-content/themes/smart-mag/js/bunyad-theme.js?ver=2.6.2'></script>
+        <script type='text/javascript' src='https://www.gamba.cl/wp-content/themes/smart-mag/js/jquery.flexslider-min.js?ver=2.6.2'></script>
+        <script type='text/javascript' src='https://www.gamba.cl/wp-content/themes/smart-mag/js/jquery.sticky-sidebar.min.js?ver=2.6.2'></script>
+        <script type='text/javascript' src='https://www.gamba.cl/wp-includes/js/wp-embed.min.js?ver=5.4.8'></script>
+        <!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&appId=133739396664307&version=v2.3";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+    </body>
